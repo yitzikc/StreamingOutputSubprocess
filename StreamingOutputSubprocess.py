@@ -1,5 +1,5 @@
 import sys
-assert(sys.version_info[:2] >= (3, 5))
+assert(sys.version_info >= (3, 5))
 
 import abc
 import shlex
